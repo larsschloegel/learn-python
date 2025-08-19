@@ -42,3 +42,7 @@
 - Haben Sie nach den Argumenten eine schließende Klammer und einen Doppelpunkt (): gesetzt?
 - Haben Sie alle Codezeilen, die Sie in der Funktion verwenden wollen, um vier Leerzeichen eingerückt ?Nicht mehr und nicht weniger.
 - Haben Sie Ihre Funktion "beendet", indem Sie zum Schreiben ohne Einrückung zurückgekehrt sind (wir nennen das Einrücken)?
+
+
+# Symbole Encoding
+-  Merke DBES -> Decode Bytes Encode Strings
