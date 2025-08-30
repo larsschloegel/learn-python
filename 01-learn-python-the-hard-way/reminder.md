@@ -46,3 +46,14 @@
 
 # Symbole Encoding
 -  Merke DBES -> Decode Bytes Encode Strings
+
+# Memorizing Logic
+- and
+- or 
+- not
+- != (not equal)
+- == (equal)
+- >= (greater-than-equal)
+- <= (less-than-equal)
+- True
+- False
